@@ -46,7 +46,7 @@ The elbow plots provide a clear visual for the accuracy and behavior of each of 
 
 ![elbows](images/elbows.png)
 
-To further assess the classifiers, I created confusion matricies and calculated Precision, Recall, and the F-1 Score for each model.  Calculating these metrics manually, trade-offs between minimizing False negatives and minimizing False positives becomes much clearer.
+To further assess the classifiers, I created confusion matrices and calculated Precision, Recall, and the F-1 Score for each model.  Calculating these metrics manually, trade-offs between minimizing False negatives and minimizing False positives becomes much clearer.
 > __Precision__ - True Positive/(True Negative + False Positive) - Measures the ability of the classifier to label a positive sample as a positive sample, not a negative one.
 
 > __Recall__- True Positive / (True Positive + False Negative) - Measures the ability of the classifier to correctly identify all the positive samples.  Represents an inverse relationship to Precision, ie increasing your recall score reduces your precision score and vice versa. 
