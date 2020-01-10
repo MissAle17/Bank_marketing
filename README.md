@@ -42,7 +42,7 @@ I set up piplines that included the PCA and a scaler for 6 different models: Log
  - AdaBoost pipeline test accuracy: 0.9011
  - Classifier with best accuracy: Logistic Regression
  
-The elbow plots provide a clear visual for the accuracy and behavior of each of these models.  These paint a different picture of the usablility of the models.    
+The elbow plots provide a clear visual for the accuracy and behavior of each of these models.  These paint a different picture of the usability of the models.    
 
 ![elbows](images/elbows.png)
 
